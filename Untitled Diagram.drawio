@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T10:52:09.512Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="0SeUihpYCwWEtLBz0fID" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T11:01:53.406Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="SljB9Vg5V7lo95WXRx_X" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
     <mxGraphModel dx="895" dy="558" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#CCCCCC" math="0" shadow="1">
       <root>
@@ -62,6 +62,9 @@
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-26" value="创建项目上传测试包流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="157" width="156" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tLCrg7Ob01ya7spGHL1g-39" value="升级报告" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="383" width="93" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
