@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-03-19T08:57:24.135Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="7IN4JNPJ3F86-ixi4C7F" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-19T08:57:27.808Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="mE5jgyo3IGlNiM3_Yk1a" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
     <mxGraphModel dx="1298" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tLCrg7Ob01ya7spGHL1g-1" value="创建项目&lt;br&gt;1." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="30" width="130" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-4" value="创建项目" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="90" y="200" width="260" height="140" as="geometry">
             <mxRectangle x="340" y="240" width="80" height="26" as="alternateBounds" />
