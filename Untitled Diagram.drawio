@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T07:07:08.903Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GVLBIphT1sOyO_L4qufR" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T07:14:09.644Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="GkmIEd6vih3QzwhtLa4K" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
     <mxGraphModel dx="1298" dy="809" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#CCCCCC" math="0" shadow="1">
       <root>
@@ -113,6 +113,26 @@
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U_CVWDfiftgJGxaCrmt_-14" target="tLCrg7Ob01ya7spGHL1g-13">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-20" value="项目修改" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="709" width="260" height="130" as="geometry">
+            <mxRectangle x="340" y="240" width="80" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-21" value="校验" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-20">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-22" value="创建项目" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-20">
+          <mxGeometry y="52" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-23" value="添加项目和用户关系&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-20">
+          <mxGeometry y="78" width="260" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-24" value="&lt;span&gt;&amp;nbsp;创建PA项目&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-20">
+          <mxGeometry y="110" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-25" value="项目修改" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="681" width="106" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
