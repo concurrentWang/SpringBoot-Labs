@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T06:17:50.486Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vX55tTZ-GYxLx_wgPjBB" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-22T06:19:52.527Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="z_cfXJgFQKMOCEIwn23B" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
     <mxGraphModel dx="1298" dy="809" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#CCCCCC" math="0" shadow="1">
       <root>
@@ -79,6 +79,9 @@
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-4" value="调整余额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-1">
           <mxGeometry y="78" width="260" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-6" value="修改备注" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="558" width="96" height="16" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
