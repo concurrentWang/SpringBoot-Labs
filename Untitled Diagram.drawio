@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:00:03.455Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vlZEFlDEW-hfNYrIt9je" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:08:19.179Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="-5tU4A88tRogHaNThbGE" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
-    <mxGraphModel dx="1038" dy="667" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="1">
+    <mxGraphModel dx="1038" dy="647" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
           <mxGeometry y="98" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-19" value="测试人员修改PA测试进度" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1064" y="208" width="286" height="97" as="geometry">
+          <mxGeometry x="1064" y="183" width="286" height="97" as="geometry">
             <mxRectangle x="1064" y="208" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
