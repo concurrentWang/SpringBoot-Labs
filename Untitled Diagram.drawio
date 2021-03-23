@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T09:26:56.809Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="KdwTgDDwSg8C8428nmld" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:34:07.210Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="VZs3OATXfiGkYjQx1HmE" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
     <mxGraphModel dx="1038" dy="647" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="1">
       <root>
@@ -26,7 +26,7 @@
             <mxRectangle x="340" y="240" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLCrg7Ob01ya7spGHL1g-12" value="校验&#xa;1.校验devicesArrayStr数组、fileUrl、&#xa;authImgCode是否为空&#xa;2.paProjcetIdStr、commonProjectIdStr是否为空&#xa;3.校验userProjectRelation是否存在并且是否是&#xa;admin&#xa;4.ownerId是否存在" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tLCrg7Ob01ya7spGHL1g-11" vertex="1">
+        <mxCell id="tLCrg7Ob01ya7spGHL1g-12" value="校验&#xa;1.校验devices数组、file_url、auth_img_code是否&#xa;为空&#xa;2.detail_project_id、common_project_id是否为空&#xa;3.校验userProjectRelation是否存在并且是否是&#xa;admin&#xa;4.ownerId是否存在" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tLCrg7Ob01ya7spGHL1g-11" vertex="1">
           <mxGeometry y="26" width="285" height="121" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-13" value="保存PA测试记录" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tLCrg7Ob01ya7spGHL1g-11" vertex="1">
@@ -39,18 +39,18 @@
           <mxGeometry y="193" width="285" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-19" value="测试人员修改PA测试进度" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="1113" y="180" width="286" height="97" as="geometry">
+          <mxGeometry x="1113" y="180" width="399" height="121" as="geometry">
             <mxRectangle x="1064" y="208" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tLCrg7Ob01ya7spGHL1g-20" value="校验" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tLCrg7Ob01ya7spGHL1g-19" vertex="1">
-          <mxGeometry y="26" width="286" height="26" as="geometry" />
+        <mxCell id="tLCrg7Ob01ya7spGHL1g-20" value="校验&#xa;1.校验owner_id、common_project_id、pa_project_id、old_progress、&#xa;new_progress是否是数字类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tLCrg7Ob01ya7spGHL1g-19" vertex="1">
+          <mxGeometry y="26" width="399" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-21" value="查询测试记录，并修改项目状态和测试记录状态" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="tLCrg7Ob01ya7spGHL1g-19" vertex="1">
-          <mxGeometry y="52" width="286" height="25" as="geometry" />
+          <mxGeometry y="76" width="399" height="25" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-32" value="&amp;nbsp;通知测试结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="tLCrg7Ob01ya7spGHL1g-19" vertex="1">
-          <mxGeometry y="77" width="286" height="20" as="geometry" />
+          <mxGeometry y="101" width="399" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-26" value="创建项目上传测试包流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="157" width="156" height="20" as="geometry" />
@@ -94,7 +94,7 @@
         <mxCell id="U_CVWDfiftgJGxaCrmt_-13" value="校验用户是否登录" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U_CVWDfiftgJGxaCrmt_-12" vertex="1">
           <mxGeometry y="26" width="319" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="U_CVWDfiftgJGxaCrmt_-14" value="参数校验，校验detailProjectId是否是int类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U_CVWDfiftgJGxaCrmt_-12" vertex="1">
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-14" value="参数校验，校验detail_project_id是否是int类型" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U_CVWDfiftgJGxaCrmt_-12" vertex="1">
           <mxGeometry y="52" width="319" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ffJdjMMn1SOzUfR7CAxL-7" value="校验上传用户是否存在&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-12">
