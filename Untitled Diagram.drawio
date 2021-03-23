@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-23T08:53:49.899Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ekR9CFRhUxWaabSz2BIz" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T09:00:03.455Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="vlZEFlDEW-hfNYrIt9je" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
     <mxGraphModel dx="1038" dy="667" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="1">
       <root>
@@ -22,7 +22,7 @@
           <mxGeometry y="126" width="260" height="20" as="geometry" />
         </mxCell>
         <mxCell id="tLCrg7Ob01ya7spGHL1g-11" value="上传测试包" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="752" y="207" width="260" height="118" as="geometry">
+          <mxGeometry x="759" y="183" width="260" height="118" as="geometry">
             <mxRectangle x="340" y="240" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -109,7 +109,7 @@
         <mxCell id="ffJdjMMn1SOzUfR7CAxL-9" value="&lt;p&gt;校验项目和用户是否有关系(UserProjectRelation是否存在)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U_CVWDfiftgJGxaCrmt_-12">
           <mxGeometry y="118" width="319" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="U_CVWDfiftgJGxaCrmt_-19" value="上传权限校验" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U_CVWDfiftgJGxaCrmt_-12" vertex="1">
+        <mxCell id="U_CVWDfiftgJGxaCrmt_-19" value="上传权限校验，非admin不可以上传" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U_CVWDfiftgJGxaCrmt_-12" vertex="1">
           <mxGeometry y="138" width="319" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-16" value="项目状态校验" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U_CVWDfiftgJGxaCrmt_-12" vertex="1">
