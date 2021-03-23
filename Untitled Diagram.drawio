@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-22T09:41:40.023Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="wcbRzZ-1ObiK6RPPfJ1y" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-23T07:53:32.018Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w00VhseqwssdVvujL4A0" version="14.4.9" type="github">
   <diagram id="rhP192XbtQ3wgahovn20" name="第 1 页">
-    <mxGraphModel dx="1082" dy="674" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="1">
+    <mxGraphModel dx="1141" dy="590" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#CCCCCC" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -67,7 +67,7 @@
           <mxGeometry x="90" y="383" width="93" height="20" as="geometry" />
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-1" value="升级报告" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="415" width="260" height="110" as="geometry">
+          <mxGeometry x="90" y="415" width="260" height="108" as="geometry">
             <mxRectangle x="340" y="240" width="80" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -75,10 +75,10 @@
           <mxGeometry y="26" width="260" height="26" as="geometry" />
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-3" value="升级报告" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U_CVWDfiftgJGxaCrmt_-1" vertex="1">
-          <mxGeometry y="52" width="260" height="26" as="geometry" />
+          <mxGeometry y="52" width="260" height="24" as="geometry" />
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-4" value="调整余额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U_CVWDfiftgJGxaCrmt_-1" vertex="1">
-          <mxGeometry y="78" width="260" height="32" as="geometry" />
+          <mxGeometry y="76" width="260" height="32" as="geometry" />
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-6" value="修改备注" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="90" y="558" width="96" height="16" as="geometry" />
@@ -147,6 +147,23 @@
         </mxCell>
         <mxCell id="U_CVWDfiftgJGxaCrmt_-31" value="发送消息通知" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="U_CVWDfiftgJGxaCrmt_-28" vertex="1">
           <mxGeometry y="78" width="274" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="ffJdjMMn1SOzUfR7CAxL-1" value="版本对比" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="375" width="93" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ffJdjMMn1SOzUfR7CAxL-2" value="升级报告" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="407" width="260" height="108" as="geometry">
+            <mxRectangle x="340" y="240" width="80" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ffJdjMMn1SOzUfR7CAxL-3" value="校验" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ffJdjMMn1SOzUfR7CAxL-2">
+          <mxGeometry y="26" width="260" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ffJdjMMn1SOzUfR7CAxL-4" value="升级报告" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ffJdjMMn1SOzUfR7CAxL-2">
+          <mxGeometry y="52" width="260" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="ffJdjMMn1SOzUfR7CAxL-5" value="调整余额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="ffJdjMMn1SOzUfR7CAxL-2">
+          <mxGeometry y="76" width="260" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
